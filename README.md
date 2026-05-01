@@ -4,10 +4,6 @@ TODO: Update image to match new 1.1.0 version
 ![example](soundboard-git-hub.png)
 --->
 
-## Demo
-
-You can find the demo [here](https://devp00l.github.io/pnp-soundboard).
-
 ## Description
 The focus of this soundboard is to be able to play sounds during pen and paper as quickly as possible.
 
@@ -105,7 +101,7 @@ Alternatively make your own sounds :)
 
 ### Use your own title
 
-By running `npm start` the `js/example.customizations.json` will be copied to `js/customizations.json`,
+By running `npm start` the `js/example.customisations.json` will be copied to `js/customisations.json`,
 which you can edit to set the title of your soundboard.
 
 ### Search through titles
