@@ -504,7 +504,7 @@ function hotButton(keyCode) {
 
 function volumeChange(changeBy) {
   const gain = document.getElementById("gain");
-  let val = parseInt(gain.value, 10) + changeBy;
+  let val = parseInt(gain.value, 100) + changeBy;
   if (val > 100) {
     val = 100;
   } else if (val < 0) {
